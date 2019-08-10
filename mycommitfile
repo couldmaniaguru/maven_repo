@@ -6,8 +6,7 @@ fgconsole	 Display the number of the current virtual console.
 fgrep	 Display lines from a file(s) that match a specified string. A variant of grep.
 file	 Determine file type for a file.
 find	 Do a file search in a directory hierarchy.
-finger	 Display user data including the information listed in .plan and .project in each user’s home directory.
-fingerd	 Provides a network interface for the finger program.
+finger	 Display us network interface for the finger program.
 flex	 Generate programs that perform pattern-matching on text.
 fmt	 Used to convert text to a specified width by filling lines and removing new lines, displaying the output.
 fold	 Wrap input line to fit in a specified width.
