@@ -18,8 +18,7 @@ free	 Show free and used system memory.
 fsck	 Check and repair a Linux file system
 ftp	 File transfer protocol user interface.
 ftpd	 FTP server process.
-function	 Used to define function macros.
-vmstat   used to check virtual machin e statics
+function	 Used to define function mach
 hello  git test file 
 
 
